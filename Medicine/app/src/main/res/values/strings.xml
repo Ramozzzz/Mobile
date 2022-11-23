@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Медицина</string>
+    <string name="cb_text">Скорая</string>
+    <string name="bb_text">Назад</string>
+</resources>
